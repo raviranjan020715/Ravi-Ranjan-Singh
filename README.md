@@ -21,7 +21,9 @@ Tata Consultancy Services Limited
 - Statistics for Data Science
 - Probability for Data Science
 - EDA(Exploratory Data Analysis)
-- Business Intelligence Tools: Tableau   
+- REST API and API testing with Postman
+- Django + Flask
+- Business Intelligence Tools: Tableau, Power BI   
 - Frontend Tech: HTML
 
 ### 🎯Aim
